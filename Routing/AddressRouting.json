@@ -1,0 +1,17 @@
+{
+  "/": ".\\Index.html",
+  "/404":  ".\\404.html"
+}
+/*
+
+  Routing works on Key-Value
+
+  aka.
+
+  "/": "path to Index file"
+
+  or
+
+  "/test : "path to /test file"
+
+*/

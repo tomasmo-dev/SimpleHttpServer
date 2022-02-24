@@ -1,0 +1,12 @@
+{
+  "BufferSize": 1024,
+
+  "DevEnabled": true,
+  "DevPort": 7580,
+  "ProdPort": 80,
+
+
+  "Routing": "C:\\Users\\tomas\\source\\repos\\HttpHost\\Routing\\AddressRouting.json",
+  "wwwPath": "C:\\Users\\tomas\\source\\repos\\HttpHost\\www\\",
+  "LogFile": "C:\\Users\\tomas\\source\\repos\\HttpHost\\Logging.txt"
+}
